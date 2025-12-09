@@ -115,8 +115,9 @@ Integration automates alert forwarding — a mini SOC in action ⚡
 ## credits
 
 
-  Created by Pepe (Akhil R.)
+  Created by Mohammed Rizwan
 
-🛡️Cybersecurity Engineer | EC-Council Certified SOC Analyst🔍
+Cybersecurity | Pentesting | Digital Forensics | Malware Analysis | SIEM | THM/HTB | BSc Digital & Cyber Forensics
+
 
 💬 “Every log tells a story — listen carefully, and you’ll find the intruder.” 👾
